@@ -1,0 +1,12 @@
+﻿@model CodeTale.Models.Algorithm
+
+@{
+    ViewBag.Title = "SeeAlgorithm";
+}
+
+<h3>Algorithm Name</h3><br></h6>@Model.AlgorithmName<br />
+<h3>Algorithm Details</h3><br />@Model.AlgorithmDetails<br />
+<h3>Code</h3>@Model.Code<br /><br />
+@Html.ActionLink("Back to Algorithm ", "Index", "SeeAlgorithms")<br />
+@Html.ActionLink("Comments", "Index", "SeeComments", new { algorithmId = Model.AlgorithmId }, null)
+

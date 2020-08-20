@@ -1,0 +1,15 @@
+﻿@*@model IEnumerable<CodeTale.Models.Comment>*@
+@using CodeTale.Models;
+@{
+    ViewBag.Title = "UserComments";
+}
+
+<h3>Comments List</h3>
+<ul>
+    @foreach (Comment cmt in Model)
+    {
+        <li>
+            @cmt.Commentstmt <br />
+        </li>
+    }
+</ul>

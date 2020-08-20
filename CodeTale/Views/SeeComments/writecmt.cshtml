@@ -1,0 +1,23 @@
+﻿@model CodeTale.Models.Comment
+
+@{
+    ViewBag.Title = "writecmt";
+}
+@{ var user = HttpContext.Current.User.Identity.Name;
+    int UserID = ViewBag.UserID;
+    int AlgorithmId = ViewBag.algorithmId;
+}
+
+<h2> write comment here</h2>
+Welcome User: @ViewBag.Name
+
+UserID:@ViewBag.UserID
+
+@using (Html.BeginForm("SaveRecord", "SeeComments", FormMethod.Post))
+
+{
+    @Html.TextBoxFor(model => model.Commentstmt, new { @class = "form-control", @placeholder = "write comments here" });
+    @Html.HiddenFor(model => model.AlgorithmId, new { AlgorithmId = AlgorithmId, @class = "form-controls" });
+    @Html.Hidden("UserID", UserID);
+    <input type="submit" value="submit" class="btn btn-block btn-primary" />
+}

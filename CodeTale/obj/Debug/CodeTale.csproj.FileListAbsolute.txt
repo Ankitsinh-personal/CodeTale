@@ -1,0 +1,217 @@
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\CodeTale.dll.config
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\CodeTale.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\CodeTale.pdb
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\csc.exe
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\csc.exe.config
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\csc.rsp
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\csi.exe
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\csi.exe.config
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\csi.rsp
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\Microsoft.Managed.Core.targets
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.AppContext.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Collections.Immutable.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Console.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.IO.Compression.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.IO.FileSystem.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.IO.Pipes.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Reflection.Metadata.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Security.AccessControl.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Security.Claims.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Security.Principal.Windows.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.ValueTuple.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Xml.XmlDocument.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Xml.XPath.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\vbc.exe
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\vbc.exe.config
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\vbc.rsp
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\VBCSCompiler.exe
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\roslyn\VBCSCompiler.exe.config
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\EntityFramework.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\EntityFramework.SqlServer.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\Microsoft.Web.Infrastructure.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\System.Web.Helpers.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\System.Web.Mvc.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\System.Web.Razor.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\System.Web.Webpages.Deployment.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\System.Web.Webpages.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\System.Web.Webpages.Razor.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\EntityFramework.xml
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\EntityFramework.SqlServer.xml
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\System.Web.Razor.xml
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\System.Web.Webpages.xml
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\System.Web.Webpages.Deployment.xml
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\System.Web.Webpages.Razor.xml
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\System.Web.Helpers.xml
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\System.Web.Mvc.xml
+G:\VisualStudioRepos\CodeTale\CodeTale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\VisualStudioRepos\CodeTale\CodeTale\obj\Debug\CodeTale.csprojAssemblyReference.cache
+G:\VisualStudioRepos\CodeTale\CodeTale\obj\Debug\CodeTale.csproj.CoreCompileInputs.cache
+G:\VisualStudioRepos\CodeTale\CodeTale\obj\Debug\CodeTale.csproj.CopyComplete
+G:\VisualStudioRepos\CodeTale\CodeTale\obj\Debug\CodeTale.dll
+G:\VisualStudioRepos\CodeTale\CodeTale\obj\Debug\CodeTale.pdb
+G:\VisualStudioRepos\CodeTale\CodeTale\obj\Debug\CodeTale.Migrations.init.resources
+G:\VisualStudioRepos\CodeTale\CodeTale\obj\Debug\CodeTale.csproj.GenerateResource.cache
+E:\CodeTale\CodeTale\bin\CodeTale.dll.config
+E:\CodeTale\CodeTale\bin\CodeTale.dll
+E:\CodeTale\CodeTale\bin\CodeTale.pdb
+E:\CodeTale\CodeTale\bin\roslyn\csc.exe
+E:\CodeTale\CodeTale\bin\roslyn\csc.exe.config
+E:\CodeTale\CodeTale\bin\roslyn\csc.rsp
+E:\CodeTale\CodeTale\bin\roslyn\csi.exe
+E:\CodeTale\CodeTale\bin\roslyn\csi.exe.config
+E:\CodeTale\CodeTale\bin\roslyn\csi.rsp
+E:\CodeTale\CodeTale\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CodeTale\CodeTale\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CodeTale\CodeTale\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CodeTale\CodeTale\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CodeTale\CodeTale\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CodeTale\CodeTale\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CodeTale\CodeTale\bin\roslyn\System.AppContext.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Collections.Immutable.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Console.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.IO.Compression.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.IO.FileSystem.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.IO.Pipes.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Reflection.Metadata.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Security.AccessControl.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Security.Claims.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Security.Principal.Windows.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.ValueTuple.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Xml.XPath.dll
+E:\CodeTale\CodeTale\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CodeTale\CodeTale\bin\roslyn\vbc.exe
+E:\CodeTale\CodeTale\bin\roslyn\vbc.exe.config
+E:\CodeTale\CodeTale\bin\roslyn\vbc.rsp
+E:\CodeTale\CodeTale\bin\roslyn\VBCSCompiler.exe
+E:\CodeTale\CodeTale\bin\roslyn\VBCSCompiler.exe.config
+E:\CodeTale\CodeTale\bin\EntityFramework.dll
+E:\CodeTale\CodeTale\bin\EntityFramework.SqlServer.dll
+E:\CodeTale\CodeTale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CodeTale\CodeTale\bin\Microsoft.Web.Infrastructure.dll
+E:\CodeTale\CodeTale\bin\System.Web.Helpers.dll
+E:\CodeTale\CodeTale\bin\System.Web.Mvc.dll
+E:\CodeTale\CodeTale\bin\System.Web.Razor.dll
+E:\CodeTale\CodeTale\bin\System.Web.Webpages.Deployment.dll
+E:\CodeTale\CodeTale\bin\System.Web.Webpages.dll
+E:\CodeTale\CodeTale\bin\System.Web.Webpages.Razor.dll
+E:\CodeTale\CodeTale\bin\EntityFramework.xml
+E:\CodeTale\CodeTale\bin\EntityFramework.SqlServer.xml
+E:\CodeTale\CodeTale\bin\System.Web.Razor.xml
+E:\CodeTale\CodeTale\bin\System.Web.Webpages.xml
+E:\CodeTale\CodeTale\bin\System.Web.Webpages.Deployment.xml
+E:\CodeTale\CodeTale\bin\System.Web.Webpages.Razor.xml
+E:\CodeTale\CodeTale\bin\System.Web.Helpers.xml
+E:\CodeTale\CodeTale\bin\System.Web.Mvc.xml
+E:\CodeTale\CodeTale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CodeTale\CodeTale\obj\Debug\CodeTale.csprojResolveAssemblyReference.cache
+E:\CodeTale\CodeTale\obj\Debug\CodeTale.dll
+E:\CodeTale\CodeTale\obj\Debug\CodeTale.pdb
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\CodeTale.dll.config
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\CodeTale.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\CodeTale.pdb
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\csc.exe
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\csc.exe.config
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\csc.rsp
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\csi.exe
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\csi.exe.config
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\csi.rsp
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.AppContext.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Collections.Immutable.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Console.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.IO.Compression.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.IO.FileSystem.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.IO.Pipes.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Reflection.Metadata.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Security.AccessControl.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Security.Claims.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.ValueTuple.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Xml.XPath.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\vbc.exe
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\vbc.exe.config
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\vbc.rsp
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\VBCSCompiler.exe
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\roslyn\VBCSCompiler.exe.config
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\EntityFramework.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\EntityFramework.SqlServer.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\Microsoft.Web.Infrastructure.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\System.Web.Helpers.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\System.Web.Mvc.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\System.Web.Razor.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\System.Web.Webpages.Deployment.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\System.Web.Webpages.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\System.Web.Webpages.Razor.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\EntityFramework.xml
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\EntityFramework.SqlServer.xml
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\System.Web.Razor.xml
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\System.Web.Webpages.xml
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\System.Web.Webpages.Deployment.xml
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\System.Web.Webpages.Razor.xml
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\System.Web.Helpers.xml
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\System.Web.Mvc.xml
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\obj\Debug\CodeTale.csprojResolveAssemblyReference.cache
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\obj\Debug\CodeTale.dll
+E:\DDU\5th SEM\c#_program\CodeTale\CodeTale\obj\Debug\CodeTale.pdb

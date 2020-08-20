@@ -1,0 +1,20 @@
+﻿@model CodeTale.Models.Question
+
+@{
+    ViewBag.Title = "Edit Questions";
+}
+
+@{var user = HttpContext.Current.User.Identity.Name; }
+@{int UserID = ViewBag.UserID;}
+@{ int questionId = ViewBag.questionId; }
+
+<h2>Edit Questions</h2>
+@using (Html.BeginForm())
+{
+    @Html.EditorFor(model => model.QuestionStatement, new { @class = "form-controls" });
+    @Html.HiddenFor(model => model.QuestionId, new { @class = "form-controls" });
+    @Html.HiddenFor(model => model.CategoryId, new { @class = "form-controls" });
+    @Html.Hidden("UserID", UserID);
+
+    <input type="submit" value="Save" />
+}

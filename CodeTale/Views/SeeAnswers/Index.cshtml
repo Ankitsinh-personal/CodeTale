@@ -1,0 +1,23 @@
+﻿@model IEnumerable<CodeTale.Models.Answer>
+@using CodeTale.Models;
+
+@{
+    ViewBag.Title = "SeeAnswers";
+}
+@{ var questionId = (int)ViewData["questionId"]; }
+@{ var categoryId = (int)ViewData["categoryId"]; }
+<h2>SeeAnswers</h2>
+<table>
+    @foreach (Answer answer in Model)
+    {
+        <tr>
+            <td>@answer.AnswerStatement</td>
+
+            @*<td>@Html.ActionLink("Edit", "Index", "EditAnswer", new { answerId = answer.AnswerId }, null);</td>*@
+        </tr>
+
+    }
+</table>
+@Html.ActionLink("Write Answer", "WriteAnswer", "SeeAnswers", new { questionId = questionId }, null);
+<br />
+@Html.ActionLink("Back To Questions", "Index", "SeeQuestions", new { categoryId = categoryId }, null);

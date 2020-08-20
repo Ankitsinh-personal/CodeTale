@@ -1,0 +1,19 @@
+﻿@model IEnumerable<CodeTale.Models.Question>
+@using CodeTale.Models
+@{
+    ViewBag.Title = "UserQuestion";
+}
+
+<h2>UserQuestion</h2>
+<table>
+    @foreach (Question question in Model)
+    {
+        <tr>
+            <td>@question.QuestionStatement</td>
+            <td>@Html.ActionLink("Edit Question","Index","EditQuestion")</td>
+            <td>@Html.ActionLink("Delete Question","Index","EditQuestion")</td>
+        </tr>
+
+    }
+
+</table>

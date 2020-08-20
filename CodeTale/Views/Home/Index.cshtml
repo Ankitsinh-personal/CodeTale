@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<h3>Welcome to CodeTale Algorithms</h3>
+@*@{var UserNam=HttpContext.Current.User.Identity.Name }*@
+ User:@HttpContext.Current.User.Identity.Name
+<div class="active">
+    @if (Request.IsAuthenticated)
+    {
+        using (Html.BeginForm("Logout", "User", FormMethod.Post, new { id = "logoutForm" }))
+        {
+            <a href="javascript:document.getElementById('logoutForm').submit()">Logout</a>
+        }
+    }
+</div>
+<br />
+<br />
+
+<h4 class="alert alert-info">Please select the links below</h4>
+<div class="alert alert-success" style="font-size:large; text-decoration">
+    @Html.ActionLink("Learn", "Index", "SeeAlgorithms")
+    @Html.ActionLink("Discussions", "Index", "SeeCategories")
+    @Html.ActionLink("Code", "Code", "Code")
+    </a>
+</div>

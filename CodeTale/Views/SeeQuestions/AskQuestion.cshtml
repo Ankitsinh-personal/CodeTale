@@ -1,0 +1,26 @@
+﻿@model CodeTale.Models.Question
+
+@{
+    ViewBag.Title = "AskQuestion";
+}
+
+<h2>AskQuestion</h2>
+
+@{var user = HttpContext.Current.User.Identity.Name; }
+@{int UserID = ViewBag.UserID;}
+
+@{ var categoryId = ViewBag.categoryId; }
+@using (Html.BeginForm("AskQuestion", "SeeQuestions", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    @Html.TextAreaFor(model => model.QuestionStatement, new { @class = "form-controls", @placeholder = "Write Your Question Here" });
+    @Html.ValidationMessageFor(model => model.QuestionStatement, "", new { @class = "text-danger" });
+
+    @Html.HiddenFor(model => model.CategoryId, new { CategoryId = categoryId, @class = "form-controls" });
+
+
+    @Html.Hidden("UserID", UserID);
+
+    <input type="submit" value="submit" />
+}

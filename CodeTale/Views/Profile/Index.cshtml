@@ -1,0 +1,9 @@
+﻿@model CodeTale.Models.User
+
+@{
+    ViewBag.Title = "Index";
+}
+@{ int UserID = Model.UserID;}
+@Html.ActionLink("Your Questions", "UserQuestion", "SeeQuestions",new {UserID},null);
+@Html.ActionLink("Your Answers", "UserAnswers", "SeeAnswers",new {UserID},null);
+@Html.ActionLink("Your Comments", "UserComments", "SeeComments",new {UserID},null);

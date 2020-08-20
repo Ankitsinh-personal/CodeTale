@@ -1,0 +1,15 @@
+﻿@model IEnumerable<CodeTale.Models.Algorithm>
+@using CodeTale.Models;
+
+@{
+    ViewBag.Title = "Index";
+}
+<h1>Algorithms</h1>
+<ul>
+
+    @foreach (Algorithm algorithm in Model)
+    {
+        @Html.ActionLink(algorithm.AlgorithmName, "SeeAlgorithm", "SeeAlgorithms", new { algorithmId = algorithm.AlgorithmId }, null);
+        <br />
+    }
+</ul>
